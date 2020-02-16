@@ -47,7 +47,7 @@ import Web3 from 'web3';
 
 import Fortmatic from 'fortmatic';
 
-const fmPhantom = new Fortmatic.Phantom('pk_test_4678DE2230DB57C1');
+const fmPhantom = new Fortmatic.Phantom('pk_live_9195F36F66CB1A50');
 const web3 = new Web3(fmPhantom.getProvider());
 
 
