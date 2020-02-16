@@ -33,13 +33,12 @@ Most of the common editors support editorconfig by default (check the editorconf
 
 # install editorconfig globally
 > npm install -g editorconfig
->The stack is built using vue-cli webpack so to get started all you have to do is:
 
 # install dependencies
 > yarn install
 # serve with hot reload at localhost:8080
 > yarn serve
->Other commands available are:
+
 
 # build for production with minification
 >yarn run build
