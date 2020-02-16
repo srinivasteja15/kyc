@@ -1,4 +1,4 @@
-# urbanBowl
+# UrbanBowl
 
 To feed today's global population, we currently need a farm land equal to the size of South America. Despite the excessive amount of land already allocated for agriculture, an estimated 815 million people worldwide still sleep hungry each night. In addition, by the end of 2050 the worldwide population is estimated to be 9 billion. Modern cities of the world already have half the world's population, which follows that the effect of projected growth in the global population will be drastically reduced by the habitable land to maintain modern infrastructure to extreme levels. Urban areas are not built for agriculture but a rapidly changing world already lacking land with hunger and agricultural difficulties inspired us to come up with a solution that can redefine the way we think about agriculture.
 
@@ -10,10 +10,10 @@ Goal 15: Reduction in forest loss and land degradation
 Goal 13: Climate Action  
 Goal 12: Sustainable production pattern
 
-Challenges we ran into:
+# Challenges we ran into:
 
 In the beginning of the hackathon, we wrote down tons of ideas on a Google Document. However, the idealization phase took too much time to find the right problem to work on. We thought about every single SDGs and finally pick a problem that connects with a large user group and has a large scope of improvement. Our project is a web3 application built with Vue.js (2.6). Building the architecture was an actual challenge. The payments are done with the help of Metamask which has been implemented with the help of Dapphero. We have integration of Fortmatic for user authentication and also we faced some challenges in enabling decentralized data sharing using IPFS.
 
-Technologies we used
+# Technologies we used
 
 Vue.js Web3 Fortmatic 3Box DappHero Skale
