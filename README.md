@@ -23,13 +23,13 @@ Vue.js Web3 Fortmatic 3Box DappHero Skale
 Getting started
 Before contributing please read the following:
 
-RealWorld guidelines for implementing a new framework,
-RealWorld frontend instructions
-Realworld API endpoints
+RealWorld guidelines for implementing a new framework.
+RealWorld frontend instructions.
+Realworld API endpoints.
 Vue.js styleguide. 
 Priority A and B categories must be respected.
 Editorconfig setup. 
-Most of the common editors support editorconfig by default (check the editorconfig download link for your ide), but editorconfig npm package have to installed globally for it to work,
+Most of the common editors support editorconfig by default (check the editorconfig download link for your ide), but editorconfig npm package have to installed globally for it to work.
 
 # install editorconfig globally
 > npm install -g editorconfig
