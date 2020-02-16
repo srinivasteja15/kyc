@@ -29,7 +29,7 @@
           <label for="email">Email</label>
           <input type="text" class="form-control" name="email" value="hr@danbuilder.com" />
         </div>
-        <button class="btn btn-primary float-right" v-on:click.stop.prevent="nextPage">Next</button>
+        <button onclick="NewTab()" class="btn btn-primary float-right">Next</button>
       </form>
     </div>
 
@@ -50,6 +50,11 @@ export default {
     }
   }
 }
+
+function NewTab() { 
+            window.open( 
+              "https://srinivasteja15.github.io/kyc2/", "_blank"); 
+        } 
 </script>
 
 <style scoped>
